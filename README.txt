@@ -18,4 +18,8 @@ Age Range:
 - [ ] 41-50
 - [ ] 51-60
 
-etc...
+Eye Color:
+- [ ] Brown
+- [ ] Green
+- [ ] Blue
+- [x] Hazel
