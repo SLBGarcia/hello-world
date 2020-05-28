@@ -26,4 +26,4 @@ Eye Color:
 
 <!-- Give more relevant information -->
 
-What is this all about?
+Hair color:
