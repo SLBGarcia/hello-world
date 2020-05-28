@@ -23,3 +23,7 @@ Eye Color:
 - [ ] Green
 - [ ] Blue
 - [x] Hazel
+
+<!-- Give more relevant information -->
+
+What is this all about?
