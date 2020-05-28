@@ -1,3 +1,0 @@
-# About You
-
-you *might* want to put in something here about you...
