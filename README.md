@@ -34,24 +34,35 @@ Hair color:
 - [ ] other
 - [ ] N/A
 
+<!-- Are you married or not? -->
+
+Marital Status:
+- [x] Married
+- [ ] Single
+- [ ] Divorced
+- [ ] Other?
+- [ ] Prefer not to answer...
+
 ## Likes and Dislikes
 Here is a list of my *likes* and *dislikes*
 
 ### Poetry
 *T.S. Eliot*
 
-The dove descending breaks the air
-With flame of incandescent terror
-Of which the tongues declare
-The one discharge from sin and error.
-The only hope, or else despair
-Lies in the choice of pyre of pyre-
-To be redeemed from fire by fire.
+The dove descending breaks the air <br />
+With flame of incandescent terror <br />
+Of which the tongues declare <br />
+The one discharge from sin and error. <br />
+The only hope, or else despair <br />
+Lies in the choice of pyre of pyre- <br />
+To be redeemed from fire by fire. <br />
 
-Who then devised the torment? Love.
-Love is the unfamiliar Name
-Behind the hands that wove
-The intolerable shirt of flame
-Which human power cannot remove.
-We only live, only suspire
-Consumed by either fire or fire.
+Who then devised the torment? Love.<br />
+Love is the unfamiliar Name<br />
+Behind the hands that wove<br />
+The intolerable shirt of flame<br />
+Which human power cannot remove.<br />
+We only live, only suspire<br />
+Consumed by either fire or fire.<br />
+
+<!-- What else do you like? Theology? Philosophy? History? etc. etc. etc. -->
